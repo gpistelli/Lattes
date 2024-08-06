@@ -9,7 +9,7 @@ Para utilizar este modelo de análise de currículos de um grupo, faça os segui
 5) Ajuste os dados que forem necessários, adicionando universidades, ajustando cursos e mudando a paleta de cores
 6) Rode o script de report.qmd
 
-Algumas limpezas de dados e adição de termos nos dicionários certamente serão necessários. Então, sempre cheque os resultados de seu  e vá arrumando os dados.
+Algumas limpezas de dados e adição de termos nos dicionários certamente serão necessários. Então, sempre cheque os resultados de sua análise e vá arrumando os dados.
 
 Em caso de adição de alguma universidade ou ajuste de dados, pode dar push request. Depois ajustarei criando um arquivo separado para estas conversões.
 
